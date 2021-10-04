@@ -78,7 +78,7 @@ form button {
 
 .skip-links a {
   position: absolute;
-  top: -10em;
+  top: -100em;
 }
 
 .skip-links a:focus {
